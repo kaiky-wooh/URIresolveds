@@ -1,0 +1,14 @@
+C:\Users\KAIKY\source\repos\extremamenteBasico\extremamenteBasico\bin\Debug\net8.0\extremamenteBasico.exe
+C:\Users\KAIKY\source\repos\extremamenteBasico\extremamenteBasico\bin\Debug\net8.0\extremamenteBasico.deps.json
+C:\Users\KAIKY\source\repos\extremamenteBasico\extremamenteBasico\bin\Debug\net8.0\extremamenteBasico.runtimeconfig.json
+C:\Users\KAIKY\source\repos\extremamenteBasico\extremamenteBasico\bin\Debug\net8.0\extremamenteBasico.dll
+C:\Users\KAIKY\source\repos\extremamenteBasico\extremamenteBasico\bin\Debug\net8.0\extremamenteBasico.pdb
+C:\Users\KAIKY\source\repos\extremamenteBasico\extremamenteBasico\obj\Debug\net8.0\extremamenteBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAIKY\source\repos\extremamenteBasico\extremamenteBasico\obj\Debug\net8.0\extremamenteBasico.AssemblyInfoInputs.cache
+C:\Users\KAIKY\source\repos\extremamenteBasico\extremamenteBasico\obj\Debug\net8.0\extremamenteBasico.AssemblyInfo.cs
+C:\Users\KAIKY\source\repos\extremamenteBasico\extremamenteBasico\obj\Debug\net8.0\extremamenteBasico.csproj.CoreCompileInputs.cache
+C:\Users\KAIKY\source\repos\extremamenteBasico\extremamenteBasico\obj\Debug\net8.0\extremamenteBasico.dll
+C:\Users\KAIKY\source\repos\extremamenteBasico\extremamenteBasico\obj\Debug\net8.0\refint\extremamenteBasico.dll
+C:\Users\KAIKY\source\repos\extremamenteBasico\extremamenteBasico\obj\Debug\net8.0\extremamenteBasico.pdb
+C:\Users\KAIKY\source\repos\extremamenteBasico\extremamenteBasico\obj\Debug\net8.0\extremamenteBasico.genruntimeconfig.cache
+C:\Users\KAIKY\source\repos\extremamenteBasico\extremamenteBasico\obj\Debug\net8.0\ref\extremamenteBasico.dll

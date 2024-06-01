@@ -1,0 +1,14 @@
+C:\Users\KAIKY\source\repos\areaDoCirculo\areaDoCirculo\bin\Debug\net8.0\areaDoCirculo.exe
+C:\Users\KAIKY\source\repos\areaDoCirculo\areaDoCirculo\bin\Debug\net8.0\areaDoCirculo.deps.json
+C:\Users\KAIKY\source\repos\areaDoCirculo\areaDoCirculo\bin\Debug\net8.0\areaDoCirculo.runtimeconfig.json
+C:\Users\KAIKY\source\repos\areaDoCirculo\areaDoCirculo\bin\Debug\net8.0\areaDoCirculo.dll
+C:\Users\KAIKY\source\repos\areaDoCirculo\areaDoCirculo\bin\Debug\net8.0\areaDoCirculo.pdb
+C:\Users\KAIKY\source\repos\areaDoCirculo\areaDoCirculo\obj\Debug\net8.0\areaDoCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAIKY\source\repos\areaDoCirculo\areaDoCirculo\obj\Debug\net8.0\areaDoCirculo.AssemblyInfoInputs.cache
+C:\Users\KAIKY\source\repos\areaDoCirculo\areaDoCirculo\obj\Debug\net8.0\areaDoCirculo.AssemblyInfo.cs
+C:\Users\KAIKY\source\repos\areaDoCirculo\areaDoCirculo\obj\Debug\net8.0\areaDoCirculo.csproj.CoreCompileInputs.cache
+C:\Users\KAIKY\source\repos\areaDoCirculo\areaDoCirculo\obj\Debug\net8.0\areaDoCirculo.dll
+C:\Users\KAIKY\source\repos\areaDoCirculo\areaDoCirculo\obj\Debug\net8.0\refint\areaDoCirculo.dll
+C:\Users\KAIKY\source\repos\areaDoCirculo\areaDoCirculo\obj\Debug\net8.0\areaDoCirculo.pdb
+C:\Users\KAIKY\source\repos\areaDoCirculo\areaDoCirculo\obj\Debug\net8.0\areaDoCirculo.genruntimeconfig.cache
+C:\Users\KAIKY\source\repos\areaDoCirculo\areaDoCirculo\obj\Debug\net8.0\ref\areaDoCirculo.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAIKY\\Desktop\\resolvingProblems\\produtoSimples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B681DB78-BE9D-4749-AEEC-636BC8AC0D57}|produtoSimples\\produtoSimples.csproj|c:\\users\\kaiky\\desktop\\resolvingproblems\\produtosimples\\produtosimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B681DB78-BE9D-4749-AEEC-636BC8AC0D57}|produtoSimples\\produtoSimples.csproj|solutionrelative:produtosimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAIKY\\Desktop\\resolvingProblems\\produtoSimples\\produtoSimples\\Program.cs",
+              "RelativeDocumentMoniker": "produtoSimples\\Program.cs",
+              "ToolTip": "C:\\Users\\KAIKY\\Desktop\\resolvingProblems\\produtoSimples\\produtoSimples\\Program.cs",
+              "RelativeToolTip": "produtoSimples\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T03:00:57.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

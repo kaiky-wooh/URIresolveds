@@ -1,0 +1,15 @@
+C:\Users\KAIKY\Desktop\resolvingProblems\produtoSimples\produtoSimples\bin\Debug\net8.0\produtoSimples.exe
+C:\Users\KAIKY\Desktop\resolvingProblems\produtoSimples\produtoSimples\bin\Debug\net8.0\produtoSimples.deps.json
+C:\Users\KAIKY\Desktop\resolvingProblems\produtoSimples\produtoSimples\bin\Debug\net8.0\produtoSimples.runtimeconfig.json
+C:\Users\KAIKY\Desktop\resolvingProblems\produtoSimples\produtoSimples\bin\Debug\net8.0\produtoSimples.dll
+C:\Users\KAIKY\Desktop\resolvingProblems\produtoSimples\produtoSimples\bin\Debug\net8.0\produtoSimples.pdb
+C:\Users\KAIKY\Desktop\resolvingProblems\produtoSimples\produtoSimples\obj\Debug\net8.0\produtoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAIKY\Desktop\resolvingProblems\produtoSimples\produtoSimples\obj\Debug\net8.0\produtoSimples.AssemblyInfoInputs.cache
+C:\Users\KAIKY\Desktop\resolvingProblems\produtoSimples\produtoSimples\obj\Debug\net8.0\produtoSimples.AssemblyInfo.cs
+C:\Users\KAIKY\Desktop\resolvingProblems\produtoSimples\produtoSimples\obj\Debug\net8.0\produtoSimples.csproj.CoreCompileInputs.cache
+C:\Users\KAIKY\Desktop\resolvingProblems\produtoSimples\produtoSimples\obj\Debug\net8.0\produtoSimples.sourcelink.json
+C:\Users\KAIKY\Desktop\resolvingProblems\produtoSimples\produtoSimples\obj\Debug\net8.0\produtoSimples.dll
+C:\Users\KAIKY\Desktop\resolvingProblems\produtoSimples\produtoSimples\obj\Debug\net8.0\refint\produtoSimples.dll
+C:\Users\KAIKY\Desktop\resolvingProblems\produtoSimples\produtoSimples\obj\Debug\net8.0\produtoSimples.pdb
+C:\Users\KAIKY\Desktop\resolvingProblems\produtoSimples\produtoSimples\obj\Debug\net8.0\produtoSimples.genruntimeconfig.cache
+C:\Users\KAIKY\Desktop\resolvingProblems\produtoSimples\produtoSimples\obj\Debug\net8.0\ref\produtoSimples.dll
